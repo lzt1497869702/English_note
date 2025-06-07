@@ -9,6 +9,15 @@
 | abound<br/>`/əˈbaʊnd/`  | _v._ 大量存在；盛产；充满                                    | Fish abound in the lake.<br/>（湖里鱼很多。）                |
 | abused<br/>`/əˈbjuːzd/` | _adj._ 被滥用的；受虐待的<br/>_v._ 滥用；虐待；辱骂          | The abused child needs help.<br/>（这个受虐待的孩子需要帮助。） |
 
+## `a~ti~`
+
+| 单词                        | 释义                  | 举例                                                         |
+| --------------------------- | --------------------- | ------------------------------------------------------------ |
+| attitude<br/>`/ˈætɪtjuːd/`  | *n.* 态度，看法       | His positive attitude towards life is inspiring.<br/>他对生活的积极态度令人鼓舞。 |
+| altitude<br/>`/ˈæltɪtjuːd/` | *n.* 海拔，高度       | The plane is flying at an altitude of 30,000 feet.<br/>飞机正在30,000英尺的高度飞行。 |
+| attentive<br/>`/əˈtentɪv/`  | *adj.* 专注的，留心的 | The teacher was very attentive to her students' needs.<br/>这位老师非常关注学生的需求。 |
+| aptitude<br/>`/ˈæptɪtjuːd/` | *n.* 天资，才能       | She has a natural aptitude for mathematics.<br/>她在数学方面有天赋。 |
+
 ## `a---tude`
 
 | 单词                       | 释义                  | 举例                                                         |
@@ -229,6 +238,20 @@
 | find<br/>`/faɪnd/` | _v._ 找到；发现；认为<br/>_n._ 发现物             | I find it difficult to solve this problem.<br/>（我发现解决这个问题很难。） |
 | fond<br/>`/fɑːnd/` | _adj._ 喜欢的；深情的；溺爱的                     | She is fond of reading.<br/>（她喜欢读书。）                 |
 | fund<br/>`/fʌnd/`  | _n._ 基金；资金；存款<br/>_v._ 资助；为……提供资金 | The company set up a fund to help the poor.<br/>（公司设立了一项基金来帮助穷人。） |
+
+
+
+
+
+## `f~~m`
+
+| 单词                   | 释义                                | 举例                                                         |
+| ---------------------- | ----------------------------------- | ------------------------------------------------------------ |
+| form<br/>`/fɔːm/`      | *n.* 形式，表格<br/>*v.* 形成，构成 | Please fill out this application form.<br/>请填写这份申请表。 |
+| from<br/>`/frɒm/`      | *prep.* 从，来自，由于              | The package arrived from China.<br/>这个包裹来自中国。       |
+| format<br/>`/ˈfɔːmæt/` | *n.* 格式，版式<br/>*v.* 格式化     | The document needs to be in PDF format.<br/>这份文件需要是PDF格式。 |
+
+
 
 # G
 
