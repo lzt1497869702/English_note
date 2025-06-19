@@ -1,3 +1,7 @@
+~~~
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+~~~
+
 # H
 
 ## `hor`
@@ -17,12 +21,14 @@
 
 ## `ins~`
 
-| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义                                | 区别                                                         |
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义                                | 区别                                                         |
 | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
-| insert<br/>`/ɪnˈsɜːt/`                                       | *v.* 插入，嵌入<br/>*n.* 插入物     | 作为动词时表示将某物放入或插入到其他物体中；作为名词时表示被插入的物品，常用于描述物理操作。 |
-| insult<br/>`/ɪnˈsʌlt/`                                       | *v.* 侮辱，冒犯<br/>*n.* 侮辱，冒犯 | 作为动词时表示对他人进行言语或行为上的冒犯；作为名词时表示冒犯性的言语或行为，强调对他人尊严的伤害。 |
-| insertion<br/>`/ɪnˈsɜːʃn/`                                   | *n.* 插入，嵌入                     | 表示插入的动作或过程，是insert的名词形式，常用于描述技术操作。 |
+| insult<br/>`/ɪnˈsʌlt/`                                       | _v._ 侮辱，辱骂<br/>_n._ 侮辱，辱骂 | He insulted me in front of everyone.<br/>（他当众侮辱了我。） |
 | insulting<br/>`/ɪnˈsʌltɪŋ/`                                  | *adj.* 侮辱性的，无礼的             | 表示具有冒犯性的，是insult的形容词形式，用于描述具有冒犯性质的行为或言语。 |
+| insert<br/>`/ɪnˈsɜːt/`                                       | _v._ 插入，嵌入<br/>_n._ 插入物     | Please insert your card into the machine.<br/>（请将您的卡插入机器。） |
+| insertion<br/>`/ɪnˈsɜːʃn/`                                   | *n.* 插入，嵌入                     | 表示插入的动作或过程，是insert的名词形式，常用于描述技术操作。 |
+| insure<br/>`/ɪnˈʃʊə(r)/`                                     | _v._ 给……保险，确保                 | You should insure your car against theft.<br/>（你应该为你的汽车投保防盗险。） |
+| insulin<br/>`/ˈɪnsjəlɪn/`                                    | _n._ 胰岛素                         | Diabetics need to inject insulin daily.<br/>（糖尿病患者需要每天注射胰岛素。） |
 
 ## `~ip`
 
@@ -83,13 +89,13 @@
 
 ## `libe`
 
-| 单词                       | 释义                                              | 举例                                                         |
-| -------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-| liberal<br/>`/ˈlɪbərəl/`   | _adj._ 自由的；开明的；慷慨的<br/>_n._ 自由主义者 | He has a liberal attitude towards different cultures.<br/>（他对不同文化持开明态度。） |
-| liberty<br/>`/ˈlɪbərti/`   | _n._ 自由；许可；解放                             | The prisoners were finally given their liberty.<br/>（囚犯们最终获得了自由。） |
-| liberate<br/>`/ˈlɪbəreɪt/` | _v._ 解放；释放；使自由                           | The army liberated the city from the enemy.<br/>（军队把这座城市从敌人手中解放出来。） |
-| libel<br/>`/ˈlaɪbl/`       | _n._ 诽谤；中伤；诽谤罪<br/>_v._ 发表诽谤性文章   | He was sued for libel.<br/>（他因诽谤罪被起诉。）            |
-| libretto<br/>`/lɪˈbretoʊ/` | _n._ 歌剧剧本；歌词                               | The libretto of the opera was written by a famous playwright.<br/>（这部歌剧的剧本是由一位著名的剧作家撰写的。） |
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义                                              | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| liberal<br/>`/ˈlɪbərəl/`                                     | _adj._ 自由的；开明的；慷慨的<br/>_n._ 自由主义者 | He has a liberal attitude towards different cultures.<br/>（他对不同文化持开明态度。） |
+| liberty<br/>`/ˈlɪbərti/`                                     | _n._ 自由；许可；解放                             | The prisoners were finally given their liberty.<br/>（囚犯们最终获得了自由。） |
+| liberate<br/>`/ˈlɪbəreɪt/`                                   | _v._ 解放；释放；使自由                           | The army liberated the city from the enemy.<br/>（军队把这座城市从敌人手中解放出来。） |
+| libel<br/>`/ˈlaɪbl/`                                         | _n._ 诽谤；中伤；诽谤罪<br/>_v._ 发表诽谤性文章   | He was sued for libel.<br/>（他因诽谤罪被起诉。）            |
+| libretto<br/>`/lɪˈbretoʊ/`                                   | _n._ 歌剧剧本；歌词                               | The libretto of the opera was written by a famous playwright.<br/>（这部歌剧的剧本是由一位著名的剧作家撰写的。） |
 
 # M
 

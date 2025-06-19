@@ -9,6 +9,22 @@
 | abound<br/>`/əˈbaʊnd/`  | _v._ 大量存在；盛产；充满                                    | Fish abound in the lake.<br/>（湖里鱼很多。）                |
 | abused<br/>`/əˈbjuːzd/` | _adj._ 被滥用的；受虐待的<br/>_v._ 滥用；虐待；辱骂          | The abused child needs help.<br/>（这个受虐待的孩子需要帮助。） |
 
+
+
+
+
+## `acce~~`
+
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| accent<br/>`/ˈæksent/`                                       | _n._ 口音，重音<br/>_v._ 强调，突出                          | She has a strong British accent when she speaks English.<br/>（她说英语时有很重的英国口音。） |
+| ascent<br/>`/əˈsent/`                                        | _n._ 上升，攀登，上坡                                        | The mountain ascent was very challenging due to the steep slope.<br/>（由于坡度陡峭，登山非常具有挑战性。） |
+| assent<br/>`/əˈsent/`                                        | _n._ 同意，赞成<br/>_v._ 同意，赞成                          | The committee gave their assent to the new proposal.<br/>（委员会同意了这个新提案。） |
+| access<br/>`/ˈækses/`                                        | _n._ 进入，通道，使用权<br/>_v._ 进入，访问                  | Students have access to the library 24 hours a day.<br/>（学生可以24小时使用图书馆。） |
+| assess<br/>`/əˈses/`                                         | _v._ 评估，评价，评定                                        | The teacher will assess your performance based on several criteria.<br/>（老师将根据几个标准来评估你的表现。） |
+
+
+
 ## `a~ti~`
 
 | 单词                        | 释义                  | 举例                                                         |
@@ -63,6 +79,16 @@
 
 # C
 
+## `cau~`
+
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义                                | 举例                                                         |
+| ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
+| casual<br/>`/ˈkæʒuəl/`                                       | _adj._ 随意的；偶然的；非正式的     | The company has a casual dress code on Fridays.<br/>公司周五有便装规定。 |
+| causal<br/>`/ˈkɔːzl/`                                        | _adj._ 因果的；原因的               | There is a causal relationship between smoking and lung cancer.<br/>吸烟与肺癌之间存在因果关系。 |
+| cause<br/>`/kɔːz/`                                           | _n._ 原因；事业<br/>_v._ 导致；引起 | The main cause of the accident was driver fatigue.<br/>事故的主要原因是司机疲劳。 |
+| caucus<br/>`/ˈkɔːkəs/`                                       | _n._ 核心小组；党团会议             | The Democratic caucus will meet to discuss the new policy.<br/>民主党核心小组将开会讨论新政策。 |
+| cautious<br/>`/ˈkɔːʃəs/`                                     | _adj._ 谨慎的；小心的               | Investors should be cautious about putting money into new ventures.<br/>投资者应该谨慎投资新项目。 |
+
 ## `circu`
 
 | 单词                           | 释义                                              | 举例                                                         |
@@ -83,9 +109,6 @@
 | conjunction<br/>`/kənˈdʒʌŋkʃn/`      | _n._ 连词；结合；同时发生                           | "And" and "but" are conjunctions.<br/>（"And"和"but"是连词。） |
 | connection<br/>`/kəˈnekʃn/`          | _n._ 联系；连接；关系；人脉                         | There is a connection between smoking and cancer.<br/>（吸烟和癌症之间有联系。） |
 | connotation<br/>`/ˌkɑːnəˈteɪʃn/`     | _n._ 内涵；含义；暗示                               | The word "home" has many positive connotations.<br/>（"家"这个词有很多积极的内涵。） |
-| conquest<br/>`/ˈkɑːŋkwest/`          | _n._ 征服；占领；战利品                             | The Normans made their conquest of England in 1066.<br/>（诺曼人在 1066 年征服了英格兰。） |
-| consensus<br/>`/kənˈsensəs/`         | _n._ 共识；一致意见                                 | There is a growing consensus on this issue.<br/>（在这个问题上达成了越来越多的共识。） |
-| conservation<br/>`/ˌkɑːnsərˈveɪʃn/`  | _n._ 保护；保存；节约                               | The conservation of natural resources is very important.<br/>（自然资源的保护非常重要。） |
 | consideration<br/>`/kənˌsɪdəˈreɪʃn/` | _n._ 考虑；体贴；报酬                               | Please give my proposal some consideration.<br/>（请考虑一下我的提议。） |
 | conception<br/>`/kənˈsɛpʃən/`        | _n._ 概念；构思；怀孕                               | The conception of the project took months of planning.<br/>（这个项目的构思花了几个月的规划。） |
 | concession<br/>`/kənˈsɛʃən/`         | _n._ 让步；特许权                                   | The government granted a concession to the company.<br/>（政府给予了该公司特许权。） |
@@ -93,6 +116,26 @@
 | contention<br/>`/kənˈtɛnʃən/`        | _n._ 争论；争夺                                     | His main contention was that the policy was unfair.<br/>（他的主要论点是该政策不公平。） |
 | convention<br/>`/kənˈvɛnʃən/`        | _n._ 会议；惯例                                     | The annual convention attracted thousands of attendees.<br/>（年度大会吸引了数千名与会者。） |
 | prevention<br/>`/prɪˈvɛnʃən/`        | _n._ 预防；阻止                                     | Regular exercise is key to the prevention of heart disease.<br/>（定期锻炼是预防心脏病的关键。） |
+
+## `cont~~t`
+
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| content<br/>`/ˈkɒntent/`                                     | _n._ 内容，目录<br/>_adj._ 满意的，满足的                    | The content of this book is very interesting.<br/>（这本书的内容很有趣。） |
+| contest<br/>`/ˈkɒntest/`                                     | _n._ 比赛，竞赛<br/>_v._ 竞争，争夺                          | She won first prize in the singing contest.<br/>（她在歌唱比赛中获得了一等奖。） |
+| consent<br/>`/kənˈsent/`                                     | _n._ 同意，许可<br/>_v._ 同意，准许                          | You need your parents' consent to join this program.<br/>（你需要父母的同意才能参加这个项目。） |
+| context<br/>`/ˈkɒntekst/`                                    | _n._ 上下文，背景，环境                                      | You need to understand the context to fully appreciate this story.<br/>（你需要理解背景才能充分欣赏这个故事。） |
+
+## `contr~~t`
+
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| contrary<br/>`/ˈkɒntrəri/`                                   | _adj._ 相反的，对立的<br/>_n._ 相反，反面                    | His views are contrary to mine.<br/>（他的观点和我相反。）   |
+| contract<br/>`/ˈkɒntrækt/`                                   | _n._ 合同，契约<br/>_v._ 缩小，收缩，订合同                  | They signed a contract to buy the house.<br/>（他们签署了购房合同。） |
+| contact<br/>`/ˈkɒntækt/`                                     | _n._ 联系，接触<br/>_v._ 联系，接触                          | Please contact me if you have any questions.<br/>（如果你有任何问题，请与我联系。） |
+| contrast<br/>`/ˈkɒntrɑːst/`                                  | _n._ 对比，对照<br/>_v._ 对比，对照                          | There is a sharp contrast between city and country life.<br/>（城市生活和乡村生活有鲜明的对比。） |
+
+
 
 ## `cr~sh`
 

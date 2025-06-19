@@ -2,16 +2,16 @@
 
 ## `~ological`
 
-| 单词                                  | 释义                      | 举例                                                         |
-| ------------------------------------- | ------------------------- | ------------------------------------------------------------ |
-| psychological<br/>`/ˌsaɪkəˈlɑːdʒɪkl/` | _adj._ 心理的；心理学的   | The trauma had a profound psychological impact on her.<br/>（这次创伤对她的心理产生了深远的影响。） |
-| biological<br/>`/ˌbaɪəˈlɑːdʒɪkl/`     | _adj._ 生物的；生物学的   | There are biological reasons why we need sleep.<br/>（我们需要睡眠是有生物学原因的。） |
-| technological<br/>`/ˌteknəˈlɑːdʒɪkl/` | _adj._ 技术的；科技的     | Recent technological advances have transformed communications.<br/>（最近的技术进步已经改变了通信方式。） |
-| ecological<br/>`/ˌiːkəˈlɑːdʒɪkl/`     | _adj._ 生态的；生态学的   | The company is committed to ecological sustainability.<br/>（该公司致力于生态可持续性。） |
-| geological<br/>`/ˌdʒiːəˈlɑːdʒɪkl/`    | _adj._ 地质的；地质学的   | The area has undergone significant geological changes over millions of years.<br/>（该地区在数百万年间经历了重大的地质变化。） |
-| sociological<br/>`/ˌsoʊsiəˈlɑːdʒɪkl/` | _adj._ 社会学的；社会的   | The researcher is conducting a sociological study of urban communities.<br/>（研究人员正在进行一项关于城市社区的社会学研究。） |
-| zoological<br/>`/ˌzoʊəˈlɑːdʒɪkl/`     | _adj._ 动物学的；动物园的 | The zoological garden houses over 500 species of animals.<br/>（这座动物园收容了 500 多种动物。） |
-| pathological<br/>`/ˌpæθəˈlɑːdʒɪkl/`   | _adj._ 病理学的；病态的   | His lying seems to be pathological rather than occasional.<br/>（他的说谎似乎是病态的而不是偶然的。） |
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| psychological<br/>`/ˌsaɪkəˈlɑːdʒɪkl/`                        | _adj._ 心理的；心理学的                                      | The trauma had a profound psychological impact on her.<br/>（这次创伤对她的心理产生了深远的影响。） |
+| biological<br/>`/ˌbaɪəˈlɑːdʒɪkl/`                            | _adj._ 生物的；生物学的                                      | There are biological reasons why we need sleep.<br/>（我们需要睡眠是有生物学原因的。） |
+| technological<br/>`/ˌteknəˈlɑːdʒɪkl/`                        | _adj._ 技术的；科技的                                        | Recent technological advances have transformed communications.（最近的技术进步已经改变了通信方式。） |
+| ecological<br/>`/ˌiːkəˈlɑːdʒɪkl/`                            | _adj._ 生态的；生态学的                                      | The company is committed to ecological sustainability.<br/>（该公司致力于生态可持续性。） |
+| geological<br/>`/ˌdʒiːəˈlɑːdʒɪkl/`                           | _adj._ 地质的；地质学的                                      | The area has undergone significant geological changes over millions of years.（该地区在数百万年间经历了重大的地质变化。） |
+| sociological<br/>`/ˌsoʊsiəˈlɑːdʒɪkl/`                        | _adj._ 社会学的；社会的                                      | The researcher is conducting a sociological study of urban communities.<br/>（研究人员正在进行一项关于城市社区的社会学研究。） |
+| zoological<br/>`/ˌzoʊəˈlɑːdʒɪkl/`                            | _adj._ 动物学的；动物园的                                    | The zoological garden houses over 500 species of animals.（这座动物园收容了 500 多种动物。） |
+| pathological<br/>`/ˌpæθəˈlɑːdʒɪkl/`                          | _adj._ 病理学的；病态的                                      | His lying seems to be pathological rather than occasional.（他的说谎似乎是病态的而不是偶然的。） |
 
 ## `~ound`
 
@@ -45,6 +45,21 @@
 | plug<br/>`/plʌɡ/` | *n.* 插头，塞子<br/>*v.* 插入，堵塞       | Please plug in your laptop.<br/>请插入你的笔记本电脑。       |
 | plum<br/>`/plʌm/` | *n.* 李子，梅子<br/>*adj.* 理想的，最好的 | This is a plum job opportunity.<br/>这是一个理想的工作机会。 |
 
+## `produc~`
+
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| produce<br/>`/prəˈdjuːs/`                                    | _v._ 生产，制造<br/>_n._ 农产品                              | The factory produces 1000 cars every month.<br/>（这家工厂每月生产1000辆汽车。） |
+| product<br/>`/ˈprɒdʌkt/`                                     | _n._ 产品，产物                                              | This is our best-selling product of the year.<br/>（这是我们今年最畅销的产品。） |
+| production<br/>`/prəˈdʌkʃn/`                                 | _n._ 生产，产量                                              | The production of steel has increased by 20% this year.<br/>（今年钢铁产量增长了20%。） |
+| producer<br/>`/prəˈdjuːsə(r)/`                               | _n._ 生产者，制片人                                          | He is a famous film producer in Hollywood.<br/>（他是好莱坞著名的电影制片人。） |
+| productive<br/>`/prəˈdʌktɪv/`                                | _adj._ 多产的，富有成效的                                    | She had a very productive day at work.<br/>（她在工作中度过了非常富有成效的一天。） |
+| productivity<br/>`/ˌprɒdʌkˈtɪvəti/`                          | _n._ 生产力，生产率                                          | The company is trying to improve its productivity.<br/>（公司正在努力提高其生产力。） |
+| reproduce<br/>`/ˌriːprəˈdjuːs/`                              | _v._ 复制，繁殖，再生产                                      | The artist can reproduce the painting exactly.<br/>（这位艺术家能够精确地复制这幅画。） |
+| reproduction<br/>`/ˌriːprəˈdʌkʃn/`                           | _n._ 复制，繁殖，复制品                                      | This is a reproduction of the original painting.<br/>（这是原画的复制品。） |
+
+
+
 
 
 ## `pr~p~~`
@@ -69,15 +84,15 @@
 
 ## `revi~`
 
-| 单词                              | 释义                                            | 举例                                                         |
-| --------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| review<br/>`/rɪˈvjuː/`            | _n._ 复习；检讨；评论<br/>_v._ 复习；检讨；评论 | The teacher asked us to review our notes before the exam.<br/>（老师要求我们在考试前复习笔记。） |
-| revise<br/>`/rɪˈvaɪz/`            | _v._ 修改；复习；校订                           | We need to revise the plan before presenting it to the client.<br/>（我们需要在向客户展示之前修改计划。） |
-| revision<br/>`/rɪˈvɪʒn/`          | _n._ 修订；复习；修改版                         | The final revision of the manuscript was submitted yesterday.<br/>（手稿的最终修订版昨天提交了。） |
-| revive<br/>`/rɪˈvaɪv/`            | _v._ 恢复；苏醒；复兴                           | They're trying to revive traditional crafts in the village.<br/>（他们正试图在村里复兴传统手工艺。） |
-| revival<br/>`/rɪˈvaɪvl/`          | _n._ 复兴；复活；苏醒                           | There's been a revival of interest in classical music.<br/>（人们对古典音乐的兴趣有所恢复。） |
-| revitalize<br/>`/ˌriːˈvaɪtəlaɪz/` | _v._ 使恢复活力；使焕发生机                     | The government has plans to revitalize the downtown area.<br/>（政府有计划使市中心地区恢复活力。） |
-| revisit<br/>`/ˌriːˈvɪzɪt/`        | _v._ 重游；重新讨论；重新考虑                   | We should revisit this issue at the next meeting.<br/>（我们应该在下次会议上重新讨论这个问题。） |
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| review<br/>`/rɪˈvjuː/`                                       | _n._ 复习；检讨；评论<br/>_v._ 复习；检讨；评论              | The teacher asked us to review our notes before the exam.<br/>（老师要求我们在考试前复习笔记。） |
+| revise<br/>`/rɪˈvaɪz/`                                       | _v._ 修改；复习；校订                                        | We need to revise the plan before presenting it to the client.（我们需要在向客户展示之前修改计划。） |
+| revision<br/>`/rɪˈvɪʒn/`                                     | _n._ 修订；复习；修改版                                      | The final revision of the manuscript was submitted yesterday.（手稿的最终修订版昨天提交了。） |
+| revive<br/>`/rɪˈvaɪv/`                                       | _v._ 恢复；苏醒；复兴                                        | They're trying to revive traditional crafts in the village.<br/>（他们正试图在村里复兴传统手工艺。） |
+| revival<br/>`/rɪˈvaɪvl/`                                     | _n._ 复兴；复活；苏醒                                        | There's been a revival of interest in classical music.<br/>（人们对古典音乐的兴趣有所恢复。） |
+| revitalize<br/>`/ˌriːˈvaɪtəlaɪz/`                            | _v._ 使恢复活力；使焕发生机                                  | The government has plans to revitalize the downtown area.<br/>（政府有计划使市中心地区恢复活力。） |
+| revisit<br/>`/ˌriːˈvɪzɪt/`                                   | _v._ 重游；重新讨论；重新考虑                                | We should revisit this issue at the next meeting.<br/>（我们应该在下次会议上重新讨论这个问题。） |
 
 ## `rise`
 
@@ -93,7 +108,7 @@
 | dayrise<br/>`/ˈdeɪraɪz/`   | _n._ 黎明；破晓                                      | The birds start singing at dayrise.<br/>（鸟儿在黎明时分开始歌唱。） |
 | riser<br/>`/ˈraɪzər/`      | _n._ 起床者；立管；竖板                              | He's an early riser.<br/>（他是个早起的人。）                |
 | risotto<br/>`/rɪˈzɑːtoʊ/`  | _n._ 意大利烩饭                                      | We had a delicious risotto for dinner.<br/>（我们晚餐吃了美味的意大利烩饭。） |
-| prise/prize<br/>`/praɪz/`  | _v._ 撬动；撬开<br/>_n._ 奖品；奖赏                  | He used a crowbar to prise open the door.<br/>（他用撬棍撬开门。） |
+| prise/prize<br/>`/praɪz/`  | _v._ 撬动；撬开<br/>_n._ 奖品；奖赏                  | He used a crowbar to prise open the door.（他用撬棍撬开门。） |
 | surprise<br/>`/sərˈpraɪz/` | _v._ 使惊讶；使诧异<br/>_n._ 意想不到的事；惊喜      | His sudden appearance surprised us.<br/>（他的突然出现让我们感到惊讶。） |
 
 # S
@@ -161,17 +176,17 @@
 
 ## `succ`
 
-| 单词                             | 释义                                              | 举例                                                         |
-| -------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-| success<br/>`/səkˈses/`          | _n._ 成功；成就；胜利                             | His hard work led to great success.<br/>（他的努力工作带来了巨大的成功。） |
-| successful<br/>`/səkˈsesfəl/`    | _adj._ 成功的；有成就的                           | She is a very successful businesswoman.<br/>（她是一位非常成功的女商人。） |
-| successfully<br/>`/səkˈsesfəli/` | _adv._ 成功地；顺利地                             | The project was successfully completed.<br/>（这个项目成功完成了。） |
-| succeed<br/>`/səkˈsiːd/`         | _v._ 成功；继承；接替                             | He succeeded in passing the exam.<br/>（他成功通过了考试。） |
-| successor<br/>`/səkˈsesər/`      | _n._ 继承人；接班人；后续的事物                   | The young man was chosen as the successor to the company's CEO.<br/>（这个年轻人被选为公司首席执行官的接班人。） |
-| succession<br/>`/səkˈseʃən/`     | _n._ 连续；继位；继承权                           | There has been a succession of victories for the team.<br/>（这个团队取得了一连串的胜利。） |
-| succor<br/>`/ˈsʌkər/`            | _n._ 援助；帮助<br/>_v._ 救援；帮助               | They provided succor to the earthquake victims.<br/>（他们向地震受害者提供援助。） |
-| succinct<br/>`/səkˈsɪŋkt/`       | _adj._ 简洁的；简明的                             | The professor gave a succinct explanation of the complex theory.<br/>（教授对这个复杂的理论给出了简洁的解释。） |
-| succulent<br/>`/ˈsʌkjələnt/`     | _adj._ 多汁的；肉质的；多水分的<br/>_n._ 肉质植物 | The succulent meat was cooked perfectly.<br/>（这多汁的肉烹饪得恰到好处。） |
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| success<br/>`/səkˈses/`                                      | _n._ 成功；成就；胜利                                        | His hard work led to great success.<br/>（他的努力工作带来了巨大的成功。） |
+| successful<br/>`/səkˈsesfəl/`                                | _adj._ 成功的；有成就的                                      | She is a very successful businesswoman.<br/>（她是一位非常成功的女商人。） |
+| successfully<br/>`/səkˈsesfəli/`                             | _adv._ 成功地；顺利地                                        | The project was successfully completed.<br/>（这个项目成功完成了。） |
+| succeed<br/>`/səkˈsiːd/`                                     | _v._ 成功；继承；接替                                        | He succeeded in passing the exam.<br/>（他成功通过了考试。） |
+| successor<br/>`/səkˈsesər/`                                  | _n._ 继承人；接班人；后续的事物                              | The young man was chosen as the successor to the company's CEO.（这个年轻人被选为公司首席执行官的接班人。） |
+| succession<br/>`/səkˈseʃən/`                                 | _n._ 连续；继位；继承权                                      | There has been a succession of victories for the team.<br/>（这个团队取得了一连串的胜利。） |
+| succor<br/>`/ˈsʌkər/`                                        | _n._ 援助；帮助<br/>_v._ 救援；帮助                          | They provided succor to the earthquake victims.<br/>（他们向地震受害者提供援助。） |
+| succinct<br/>`/səkˈsɪŋkt/`                                   | _adj._ 简洁的；简明的                                        | The professor gave a succinct explanation of the complex theory.（教授对这个复杂的理论给出了简洁的解释。） |
+| succulent<br/>`/ˈsʌkjələnt/`                                 | _adj._ 多汁的；肉质的；多水分的<br/>_n._ 肉质植物            | The succulent meat was cooked perfectly.<br/>（这多汁的肉烹饪得恰到好处。） |
 
 ## `ski`
 
@@ -195,12 +210,12 @@
 
 ## `~sume`
 
-| 单词                      | 释义                              | 区别                                                         |
-| ------------------------- | --------------------------------- | ------------------------------------------------------------ |
-| assume<br/>`/əˈsjuːm/`    | *v.* 假设，假定；承担；呈现       | 最常用的"假设"含义，强调在缺乏证据的情况下接受某事为真。在正式场合也用于表示"承担职责"。 |
-| consume<br/>`/kənˈsjuːm/` | *v.* 消耗；消费；吃；喝           | 主要用于描述资源、时间、金钱等的消耗，也可用于描述食物和饮料的摄入。 |
-| resume<br/>`/rɪˈzjuːm/`   | *v.* 重新开始；继续<br/>*n.* 简历 | 作为动词时表示中断后重新开始，作为名词时特指求职简历。       |
-| presume<br/>`/prɪˈzjuːm/` | *v.* 假定；推测；擅自             | 比assume更正式，强调基于合理证据的推测，也可表示未经许可的行为。 |
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义                              | 区别                                                         |
+| ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
+| assume<br/>`/əˈsjuːm/`                                       | *v.* 假设，假定；承担；呈现       | 最常用的"假设"含义，强调在缺乏证据的情况下接受某事为真。在正式场合也用于表示"承担职责"。 |
+| consume<br/>`/kənˈsjuːm/`                                    | *v.* 消耗；消费；吃；喝           | 主要用于描述资源、时间、金钱等的消耗，也可用于描述食物和饮料的摄入。 |
+| resume<br/>`/rɪˈzjuːm/`                                      | *v.* 重新开始；继续<br/>*n.* 简历 | 作为动词时表示中断后重新开始，作为名词时特指求职简历。       |
+| presume<br/>`/prɪˈzjuːm/`                                    | *v.* 假定；推测；擅自             | 比assume更正式，强调基于合理证据的推测，也可表示未经许可的行为。 |
 
 ## `~sult`
 
@@ -219,26 +234,26 @@
 
 ## `terri~`
 
-| 单词                              | 释义                                | 举例                                                         |
-| --------------------------------- | ----------------------------------- | ------------------------------------------------------------ |
-| territory<br/>`/ˈterətɔːri/`      | _n._ 领土；地区；领域               | Alaska was purchased from Russia and became a U.S. territory in 1867.<br/>（阿拉斯加是从俄罗斯购买的，1867 年成为美国领土。） |
-| territorial<br/>`/ˌterəˈtɔːriəl/` | _adj._ 领土的；地域的；有地盘意识的 | Dogs can be very territorial about their food.<br/>（狗对自己的食物可能有很强的地盘意识。） |
-| terrific<br/>`/təˈrɪfɪk/`         | _adj._ 极好的；了不起的；可怕的     | That's a terrific idea! Let's do it.<br/>（那是个极好的主意！我们就这么做吧。） |
-| terrify<br/>`/ˈterəfaɪ/`          | _v._ 使恐惧；使害怕                 | The thought of public speaking terrifies many people.<br/>（公众演讲的想法使许多人感到恐惧。） |
-| terrifying<br/>`/ˈterəfaɪɪŋ/`     | _adj._ 可怕的；令人恐惧的           | The roller coaster ride was absolutely terrifying.<br/>（过山车的体验绝对令人恐惧。） |
-| terrible<br/>`/ˈterəbl/`          | _adj._ 可怕的；糟糕的；极差的       | We had terrible weather during our vacation.<br/>（我们度假期间天气很糟糕。） |
-| terrain<br/>`/təˈreɪn/`           | _n._ 地形；地势；领域               | The vehicle is designed for rough terrain.<br/>（这种车辆是为崎岖地形设计的。） |
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义                                | 举例                                                         |
+| ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
+| territory<br/>`/ˈterətɔːri/`                                 | _n._ 领土；地区；领域               | Alaska was purchased from Russia and became a U.S. territory in 1867.<br/>（阿拉斯加是从俄罗斯购买的，1867 年成为美国领土。） |
+| territorial<br/>`/ˌterəˈtɔːriəl/`                            | _adj._ 领土的；地域的；有地盘意识的 | Dogs can be very territorial about their food.<br/>（狗对自己的食物可能有很强的地盘意识。） |
+| terrific<br/>`/təˈrɪfɪk/`                                    | _adj._ 极好的；了不起的；可怕的     | That's a terrific idea! Let's do it.<br/>（那是个极好的主意！我们就这么做吧。） |
+| terrify<br/>`/ˈterəfaɪ/`                                     | _v._ 使恐惧；使害怕                 | The thought of public speaking terrifies many people.<br/>（公众演讲的想法使许多人感到恐惧。） |
+| terrifying<br/>`/ˈterəfaɪɪŋ/`                                | _adj._ 可怕的；令人恐惧的           | The roller coaster ride was absolutely terrifying.<br/>（过山车的体验绝对令人恐惧。） |
+| terrible<br/>`/ˈterəbl/`                                     | _adj._ 可怕的；糟糕的；极差的       | We had terrible weather during our vacation.<br/>（我们度假期间天气很糟糕。） |
+| terrain<br/>`/təˈreɪn/`                                      | _n._ 地形；地势；领域               | The vehicle is designed for rough terrain.<br/>（这种车辆是为崎岖地形设计的。） |
 
 ## `text~`
 
-| 单词                       | 释义                                    | 举例                                                         |
-| -------------------------- | --------------------------------------- | ------------------------------------------------------------ |
-| text<br/>`/tekst/`         | _n._ 文本；课文；短信<br/>_v._ 发短信   | Please read the text carefully before answering the questions.<br/>（请在回答问题前仔细阅读文本。） |
-| textbook<br/>`/ˈtekstbʊk/` | _n._ 教科书；课本                       | This textbook covers all the topics for the exam.<br/>（这本教科书涵盖了考试的所有主题。） |
-| textile<br/>`/ˈtekstaɪl/`  | _n._ 纺织品；织物<br/>_adj._ 纺织的     | The company specializes in producing fine textiles.<br/>（该公司专门生产优质纺织品。） |
-| texture<br/>`/ˈtekstʃər/`  | _n._ 质地；纹理；结构<br/>_v._ 赋予质感 | This bread has a wonderful crispy texture.<br/>（这种面包有一种美妙的酥脆质感。） |
-| textual<br/>`/ˈtekstʃuəl/` | _adj._ 文本的；原文的                   | The textual analysis reveals several interesting patterns.<br/>（文本分析揭示了几个有趣的模式。） |
-| context<br/>`/ˈkɑːntekst/` | _n._ 背景；环境；上下文                 | It's important to understand this statement in its proper context.<br/>（理解这句话时了解其适当的上下文很重要。） |
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| text<br/>`/tekst/`                                           | _n._ 文本；课文；短信<br/>_v._ 发短信                        | Please read the text carefully before answering the questions.（请在回答问题前仔细阅读文本。） |
+| textbook<br/>`/ˈtekstbʊk/`                                   | _n._ 教科书；课本                                            | This textbook covers all the topics for the exam.<br/>（这本教科书涵盖了考试的所有主题。） |
+| textile<br/>`/ˈtekstaɪl/`                                    | _n._ 纺织品；织物<br/>_adj._ 纺织的                          | The company specializes in producing fine textiles.<br/>（该公司专门生产优质纺织品。） |
+| texture<br/>`/ˈtekstʃər/`                                    | _n._ 质地；纹理；结构<br/>_v._ 赋予质感                      | This bread has a wonderful crispy texture.<br/>（这种面包有一种美妙的酥脆质感。） |
+| textual<br/>`/ˈtekstʃuəl/`                                   | _adj._ 文本的；原文的                                        | The textual analysis reveals several interesting patterns.<br/>（文本分析揭示了几个有趣的模式。） |
+| context<br/>`/ˈkɑːntekst/`                                   | _n._ 背景；环境；上下文                                      | It's important to understand this statement in its proper context.（理解这句话时了解其适当的上下文很重要。） |
 
 ## `though`
 
