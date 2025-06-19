@@ -45,6 +45,21 @@
 | plug<br/>`/plʌɡ/` | *n.* 插头，塞子<br/>*v.* 插入，堵塞       | Please plug in your laptop.<br/>请插入你的笔记本电脑。       |
 | plum<br/>`/plʌm/` | *n.* 李子，梅子<br/>*adj.* 理想的，最好的 | This is a plum job opportunity.<br/>这是一个理想的工作机会。 |
 
+## `produc~`
+
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| produce<br/>`/prəˈdjuːs/`                                    | _v._ 生产，制造<br/>_n._ 农产品                              | The factory produces 1000 cars every month.<br/>（这家工厂每月生产1000辆汽车。） |
+| product<br/>`/ˈprɒdʌkt/`                                     | _n._ 产品，产物                                              | This is our best-selling product of the year.<br/>（这是我们今年最畅销的产品。） |
+| production<br/>`/prəˈdʌkʃn/`                                 | _n._ 生产，产量                                              | The production of steel has increased by 20% this year.<br/>（今年钢铁产量增长了20%。） |
+| producer<br/>`/prəˈdjuːsə(r)/`                               | _n._ 生产者，制片人                                          | He is a famous film producer in Hollywood.<br/>（他是好莱坞著名的电影制片人。） |
+| productive<br/>`/prəˈdʌktɪv/`                                | _adj._ 多产的，富有成效的                                    | She had a very productive day at work.<br/>（她在工作中度过了非常富有成效的一天。） |
+| productivity<br/>`/ˌprɒdʌkˈtɪvəti/`                          | _n._ 生产力，生产率                                          | The company is trying to improve its productivity.<br/>（公司正在努力提高其生产力。） |
+| reproduce<br/>`/ˌriːprəˈdjuːs/`                              | _v._ 复制，繁殖，再生产                                      | The artist can reproduce the painting exactly.<br/>（这位艺术家能够精确地复制这幅画。） |
+| reproduction<br/>`/ˌriːprəˈdʌkʃn/`                           | _n._ 复制，繁殖，复制品                                      | This is a reproduction of the original painting.<br/>（这是原画的复制品。） |
+
+
+
 
 
 ## `pr~p~~`
