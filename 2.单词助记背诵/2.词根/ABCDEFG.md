@@ -274,6 +274,18 @@
 | affection<br/>`/əˈfekʃn/`  | _n._ 喜爱；感情；爱                       | She shows great affection for her grandchildren.<br/>（她对孙子女表现出极大的喜爱。） |
 | efficient<br/>`/ɪˈfɪʃnt/`  | _adj._ 高效的；有能力的                   | The new system is much more efficient than the old one.<br/>（新系统比旧系统高效得多。） |
 
+
+
+## `fla~`
+
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| flat<br/>`/flæt/`                                            | _adj._ 平的，平坦的<br/>_n._ 公寓，平面                      | The road is very flat and smooth for driving.<br/>（这条路很平坦，适合开车。） |
+| flap<br/>`/flæp/`                                            | _n._ 片状物，盖板<br/>_v._ 拍打，摆动                        | The bird flapped its wings and flew away.<br/>（鸟儿拍打着翅膀飞走了。） |
+| flag<br/>`/flæɡ/`                                            | _n._ 旗帜，国旗<br/>_v._ 标记，示意                          | The national flag was raised at dawn.<br/>（国旗在黎明时分升起。） |
+
+
+
 ## `f~nd`
 
 | 单词               | 释义                                              | 举例                                                         |
