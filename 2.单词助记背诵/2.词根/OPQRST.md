@@ -111,6 +111,23 @@
 | prise/prize<br/>`/praɪz/`  | _v._ 撬动；撬开<br/>_n._ 奖品；奖赏                  | He used a crowbar to prise open the door.（他用撬棍撬开门。） |
 | surprise<br/>`/sərˈpraɪz/` | _v._ 使惊讶；使诧异<br/>_n._ 意想不到的事；惊喜      | His sudden appearance surprised us.<br/>（他的突然出现让我们感到惊讶。） |
 
+## `~rupt`
+
+| **单词**                   | **释义**                                            | **举例**                                                     |
+| -------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
+| rupture<br/>/ˈrʌptʃə(r)/   | *vi./vt.* 破裂；断绝<br/><em>n.</em> 破裂；决裂     | The pipeline ruptured due to extreme pressure.<br/>管道因压力过大而破裂。 |
+| interrupt<br/>/ˌɪntəˈrʌpt/ | *vt.* 打断；中断                                    | She tried to speak but he interrupted her.<br/>她想说话，但被他打断了。 |
+| disrupt<br/>/dɪsˈrʌpt/     | *vt.* 扰乱；破坏                                    | The storm disrupted power supplies across the region.<br/>暴风雨扰乱了整个地区的电力供应。 |
+| erupt<br/>/ɪˈrʌpt/         | *vi.* 爆发；喷发                                    | The volcano erupted after years of dormancy.<br/>这座火山在休眠多年后爆发了。 |
+| corrupt<br/>/kəˈrʌpt/      | *vt.* 腐蚀；使堕落<br/><em>adj.</em> 腐败的；贪污的 | Power tends to corrupt; absolute power corrupts absolutely.<br/>权力容易使人腐化；绝对的权力绝对会使人腐化。 |
+| abrupt<br/>/əˈbrʌpt/       | *adj.* 突然的；唐突的                               | He made an abrupt turn and almost hit the tree.<br/>他突然转弯，差点撞到树上。 |
+| disrupt<br/>/dɪsˈrʌpt/     | *vt.* 使中断；扰乱                                  | The strike disrupted public transportation.<br/>罢工扰乱了公共交通。 |
+
+
+        
+
+
+
 # S
 
 ## `s~~ff`
