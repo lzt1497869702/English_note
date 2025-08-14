@@ -4,6 +4,14 @@
 
 # H
 
+## `~hibit`
+
+| **单词**               | **释义**                     | **举例**                                                     |
+| ---------------------- | ---------------------------- | ------------------------------------------------------------ |
+| exhibit<br/>`ɪɡˈzɪbɪt` | vt. 展览；显示<br/>n. 展览品 | The museum is exhibiting rare ancient coins.<br/>博物馆正在展览稀有的古钱币。 |
+| inhabit<br/>`ɪnˈhæbɪt` | vt. 居住于；栖息             | Many species of birds inhabit this forest.<br/>许多种类的鸟栖息在这片森林里。 |
+| inhibit<br/>`ɪnˈhɪbɪt` | vt. 抑制；禁止               | The drug can inhibit the growth of cancer cells.<br/>这种药物可以抑制癌细胞的生长。 |
+
 ## `hor`
 
 | 单词                                    | 释义                                            | 举例                                                         |

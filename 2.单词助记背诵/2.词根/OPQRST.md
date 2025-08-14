@@ -124,7 +124,7 @@
 | disrupt<br/>/dɪsˈrʌpt/     | *vt.* 使中断；扰乱                                  | The strike disrupted public transportation.<br/>罢工扰乱了公共交通。 |
 
 
-        
+​        
 
 
 
@@ -191,7 +191,16 @@
 | stomach<br/>`/ˈstʌmək/` | _n._ 胃；腹部；胃口<br/>_v._ 忍受；吃下                      | I have a pain in my stomach.<br/>（我胃疼。）                |
 | stone<br/>`/stoʊn/`     | _n._ 石头；石块；宝石；结石<br/>_v._ 向……扔石头；去除（水果的）核 | He threw a stone into the river.<br/>（他把一块石头扔进河里。） |
 
-## `succ`
+## `~sture`
+
+| **单词**                  | **释义**                       | **举例**                                                     |
+| ------------------------- | ------------------------------ | ------------------------------------------------------------ |
+| gesture<br/>`ˈdʒestʃə(r)` | n. 手势；姿态<br/>vi. 做手势   | She made a gesture of approval.<br/>她做了一个表示同意的手势。 |
+| posture<br/>`ˈpɒstʃə(r)`  | n. 姿势；态度<br/>vt. 使摆姿势 | Good posture is important for your health.<br/>良好的姿势对你的健康很重要。 |
+| fixture<br/>`ˈfɪkstʃə(r)` | n. 固定装置；设备              | The lamp is a permanent fixture in the room.<br/>这盏灯是房间里的固定装置。 |
+| pasture<br/>`ˈpɑːstʃə(r)` | n. 牧场；草地<br/>vt. 放牧     | The cows are grazing in the pasture.<br/>牛群正在牧场上吃草。 |
+
+## `succ~`
 
 | 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
