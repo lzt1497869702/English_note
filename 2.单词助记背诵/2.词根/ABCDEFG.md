@@ -44,6 +44,13 @@
 
 # B
 
+## `bl~ck`
+
+| **单词**         | **释义**                               | **举例**                                                     |
+| ---------------- | -------------------------------------- | ------------------------------------------------------------ |
+| black<br/>`blæk` | adj. 黑色的；黑暗的<br/>n. 黑色；黑人  | She was wearing a black dress.<br/>她穿着一件黑色的连衣裙。  |
+| block<br/>`blɒk` | n. 块；街区；障碍物<br/>vt. 阻塞；限制 | The road was blocked by a fallen tree.<br/>道路被一棵倒下的树阻塞了。 |
+
 ## `~board/broad`
 
 | 单词                         | 释义                                                         | 举例                                                         |
@@ -125,7 +132,15 @@
 | contest<br/>`/ˈkɒntest/`                                     | _n._ 比赛，竞赛<br/>_v._ 竞争，争夺                          | She won first prize in the singing contest.<br/>（她在歌唱比赛中获得了一等奖。） |
 | consent<br/>`/kənˈsent/`                                     | _n._ 同意，许可<br/>_v._ 同意，准许                          | You need your parents' consent to join this program.<br/>（你需要父母的同意才能参加这个项目。） |
 | context<br/>`/ˈkɒntekst/`                                    | _n._ 上下文，背景，环境                                      | You need to understand the context to fully appreciate this story.<br/>（你需要理解背景才能充分欣赏这个故事。） |
+
+## `contr~~t`
+
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| contrary<br/>`/ˈkɒntrəri/`                                   | _adj._ 相反的，对立的<br/>_n._ 相反，反面                    | His views are contrary to mine.<br/>（他的观点和我相反。）   |
+| contract<br/>`/ˈkɒntrækt/`                                   | _n._ 合同，契约<br/>_v._ 缩小，收缩，订合同                  | They signed a contract to buy the house.<br/>（他们签署了购房合同。） |
 | contact<br/>`/ˈkɒntækt/`                                     | _n._ 联系，接触<br/>_v._ 联系，接触                          | Please contact me if you have any questions.<br/>（如果你有任何问题，请与我联系。） |
+| contrast<br/>`/ˈkɒntrɑːst/`                                  | _n._ 对比，对照<br/>_v._ 对比，对照                          | There is a sharp contrast between city and country life.<br/>（城市生活和乡村生活有鲜明的对比。） |
 
 
 
@@ -265,6 +280,18 @@
 | effective<br/>`/ɪˈfektɪv/` | _adj._ 有效的；实际的；给人深刻印象的     | This is a very effective method of learning vocabulary.<br/>（这是一种非常有效的学习词汇的方法。） |
 | affection<br/>`/əˈfekʃn/`  | _n._ 喜爱；感情；爱                       | She shows great affection for her grandchildren.<br/>（她对孙子女表现出极大的喜爱。） |
 | efficient<br/>`/ɪˈfɪʃnt/`  | _adj._ 高效的；有能力的                   | The new system is much more efficient than the old one.<br/>（新系统比旧系统高效得多。） |
+
+
+
+## `fla~`
+
+| 单词&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 释义&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 举例                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| flat<br/>`/flæt/`                                            | _adj._ 平的，平坦的<br/>_n._ 公寓，平面                      | The road is very flat and smooth for driving.<br/>（这条路很平坦，适合开车。） |
+| flap<br/>`/flæp/`                                            | _n._ 片状物，盖板<br/>_v._ 拍打，摆动                        | The bird flapped its wings and flew away.<br/>（鸟儿拍打着翅膀飞走了。） |
+| flag<br/>`/flæɡ/`                                            | _n._ 旗帜，国旗<br/>_v._ 标记，示意                          | The national flag was raised at dawn.<br/>（国旗在黎明时分升起。） |
+
+
 
 ## `f~nd`
 
